@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx --version)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(python -m http.server 3000)",
+      "Bash(netstat -ano)",
+      "Bash(findstr :3000)",
+      "Bash(dir /b)",
+      "Bash(dir \"C:\\\\Users\\\\Akshay\\\\Desktop\\\\Projects\\\\LevelIO\\\\LevelIO Website 2.0\\\\Images\")",
+      "Bash(mv \"Logo Symbol.png\" \"logo-symbol.png\")",
+      "Bash(mv \"Logo.png\" \"logo.png\")",
+      "Bash(mv \"Gaming PC setup.jpg\" \"gaming-pc-setup.jpg\")",
+      "Bash(mv \"Setup 1.jpg\" \"setup-1.jpg\")",
+      "Bash(mv \"Before and After Gaming Setup Evolution.jpg\" \"before-after-gaming-setup.jpg\")"
+    ]
+  }
+}
